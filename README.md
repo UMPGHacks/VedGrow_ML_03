@@ -1,7 +1,7 @@
 # VedGrow_ML_03 - 🎬 Movie Recommendation System
 
-
-The **Movie Recommendation System** is a Machine Learning project developed as **Task 3** during my **VedGrow Machine Learning Internship**. This application recommends movies based on content similarity using the **MovieLens 100K Dataset**.
+An end-to-end **Machine Learning Movie Recommendation System** developed as **Task 3** during my **VedGrow Machine Learning Internship**.
+This application recommends movies based on content similarity using the **MovieLens 100K Dataset**. 
 
 The project implements a **Content-Based Recommendation System** that analyzes movie features and suggests similar movies. It also includes a **Streamlit web application** for an interactive user experience.
 
