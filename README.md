@@ -44,10 +44,14 @@ movie-recommendation-system/
 │   ├── ratings.csv
 │   ├── tags.csv
 │   └── links.csv
-├── cosine_similarity.pkl          # Content-based model artifact
+├── web app screenshot/
+│   ├── home.png
+│   ├── recommendation.png
+│   ├── based_on_preference.png
+│   ├── recommendation_on_preference.png
+├── tfidf_matrix.pkl          # TF-IDF matrix
 ├── tfidf_vectorizer.pkl           # TF-IDF vectorizer
 ├── svd_model.pkl                  # Collaborative-filtering model
-├── knn_model.pkl                  # KNN baseline model
 └── evaluation_results.csv
 ```
 
