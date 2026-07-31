@@ -1,4 +1,4 @@
-# VedGrow_ML_03 - 🎬 Movie Recommendation System
+# VedGrow_ML_03 - 🎬 Movie Recommendation System [Live](https://movie-recomendation-system-ufyxjjgbw24qk85efan88j.streamlit.app/)
 
 An end-to-end **Machine Learning Movie Recommendation System** developed as **Task 3** during my **VedGrow Machine Learning Internship**.
 This application recommends movies based on content similarity using the **MovieLens 100K Dataset**. 
